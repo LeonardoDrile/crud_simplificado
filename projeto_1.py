@@ -1,16 +1,3 @@
-'''Projeto 1 – CRUD simples com Python + SQLite
-
-🎯 Objetivo: consolidar fundamentos, SQL básico e Git.
-
-Funcionalidades: cadastrar clientes/produtos, listar, atualizar e remover.
-
-Tecnologias: Python + SQLite (sqlite3).
-
-Boas práticas: modularização, funções, tratamento de erros.
-
-Git: criar repositório, commits regulares, push para GitHub.
-
-Dicas: documente README explicando como rodar o projeto.'''
 import sqlite3
 
 class Cliente:
